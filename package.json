@@ -1,0 +1,24 @@
+{
+  "name": "vctool-html-diff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motoedie/vctool-html-diff.git"
+  },
+  "author": "Ladislav Starek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motoedie/vctool-html-diff/issues"
+  },
+  "homepage": "https://github.com/motoedie/vctool-html-diff#readme",
+  "dependencies": {
+    "@markedjs/html-differ": "^5.0.1"
+  }
+}
